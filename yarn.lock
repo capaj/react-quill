@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@capaj/quill@^1.3.7":
-  version "1.3.7"
-  resolved "https://registry.yarnpkg.com/@capaj/quill/-/quill-1.3.7.tgz#ce45fb8a09d5635373b06958b583f40eb2b53f7f"
-  integrity sha512-M+XUEc+Ukw6FqRQsf/n95sQA0UFp1p1dBiTmn3qBL0GEfV41PKuRBYVYGMfMLR6yva1Ojp++Stvqla0lG3rMfQ==
+"@capaj/quill@^1.3.10":
+  version "1.3.10"
+  resolved "https://registry.yarnpkg.com/@capaj/quill/-/quill-1.3.10.tgz#bbeb005b2d65efba4892e0f1ce5899676afb80fb"
+  integrity sha512-tjv6ppO+9UWRqbPu2GhkvappDthJUSR5Jeqq3VXlzpMFTyx9W8Y+00tQPY+zcIMKC56n9H/lf3Sfb+ozWEMXOw==
   dependencies:
     clone "^2.1.1"
     deep-equal "^1.0.1"
